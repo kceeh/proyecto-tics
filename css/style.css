@@ -131,7 +131,7 @@
 .sidebar .navbar .navbar-nav .nav-link:hover,
 .sidebar .navbar .navbar-nav .nav-link.active {
     color: var(--primary);
-    background: var(--dark);
+    background: var(--secondary);
     border-color: var(--primary);
 }
 
@@ -141,7 +141,7 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background: var(--dark);
+    background: var(--secondary);
     border-radius: 40px;
 }
 
@@ -195,7 +195,7 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background: var(--dark);
+    background: var(--secondary);
     border-radius: 40px;
 }
 
