@@ -2,7 +2,7 @@
 :root {
     --primary: #E67E22;
     --secondary: #17A589;
-    --light: #52BE80;
+    --light: #FBFCFC;
     --dark: #000000;
 }
 
@@ -185,7 +185,7 @@
 
 .content .navbar .navbar-nav .nav-link:hover,
 .content .navbar .navbar-nav .nav-link.active {
-    color: var(--primary);
+    color: var(--light);
 }
 
 .content .navbar .sidebar-toggler,
